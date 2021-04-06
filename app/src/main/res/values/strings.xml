@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Exercise 1</string>
+    <string name="tEmail">Email:</string>
+    <string name="tPassword">Password:</string>
+    <string name="bsignin">Sign-in</string>
+    <string name="tlogin">Login</string>
+    <string name="tData">Data anda</string>
+    <string name="txemail">ini hasil email</string>
+    <string name="txpassword">ini hasil password</string>
+    <string name="label2">Login berhasil</string>
+    <string name="login">Login</string>
+    <string name="mDaftar">Pendaftaran</string>
+    <string name="lDaftar">Daftar</string>
+    <string name="enama">Masukkan nama</string>
+    <string name="eemail">Masukkan email</string>
+    <string name="epass">Masukkan password</string>
+    <string name="erepass">Masukkan kembali passsword</string>
+    <string name="ealamat">Masukkan alamat</string>
+    <string name="lihatdata">Lihat data</string>
+    <string name="lihatnomor">Lihat nomor</string>
+    <string name="datakontak">Data kontak</string>
+    <string name="namaitem">Nama item</string>
+    <string name="detailkontak">Detail Kontak</string>
+    <string name="nama">Nama</string>
+    <string name="notel">Nomor Telepon</string>
+    <string name="Register">Belum Terdaftar ?</string>
+    <string name="Search">Masukkan kata pencarian</string>
+    <string name="rp1">Laki Laki</string>
+    <string name="rp2">Perempuan</string>
+    <string name="jk">Jenis Kelamin</string>
+    <string name="agama">Agama</string>
+    <string name="rp3">Islam</string>
+    <string name="rp4">Katolik</string>
+    <string name="rp5">Hindu</string>
+    <string name="rp6">Budha</string>
+    <string name="rp7">Kristen</string>
+    <string name="rp8">Konghucu</string>
+    <string name="rp9">Penganut kepercayaan</string>
+    <string name="btnBl">Batal</string>
+    <string name="btnDr">Daftar</string>
+
+
+
+
+
+</resources>
